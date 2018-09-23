@@ -1,2 +1,2 @@
-# tugasbagus2
+# Exercise2
 chapter 3 programming challenge
